@@ -61,4 +61,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafanalbant1&show_icons=true&locale=en" alt="mustafanalbant1" /></p>
 
 
-![snake gif](https://github.com/mustafanalbant1/mustafanalbant1/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/mustafanalbant1/mustafanalbant1/blob/output/github-contribution-grid-snake.gif)-->
