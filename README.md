@@ -1,13 +1,21 @@
+
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*jXusXvCfxECPU_Jh9S_E3w.jpeg" alt="MasterHead"/>
 </div>
-- 🔭 I’m currently working on **react**
+<h1>💫 About Me:</h1>
 
-- 🌱 I’m currently learning **react native**
+🔭 I’m currently working on Full Stack Developer
 
-- 💬 Ask me about **Frontend**
+⚡ I can help with BackEnd & Front End.
 
-- 📫 How to reach me **mnalbant9046@gmail.com**
+🌱 I’m currently learning React Native
+
+💬  Ask me about anything*
+
+🤝🏻 I am open to job offers.
+
+📫 How to reach me mnalbant9046@gmail.com
+
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,9 +33,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -58,4 +63,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafanalbant1&show_icons=true&locale=en" alt="mustafanalbant1" /></p>
 
 
-<!--![snake gif](https://github.com/mustafanalbant1/mustafanalbant1/blob/output/github-contribution-grid-snake.gif)-->
+<!--![snake gif](https://github.com/mustafanalbant1/mustafanalbant1/blob/output/github-contribution-grid-snake.gif)
