@@ -64,4 +64,4 @@
 ---
 
 <!-- GitHub Contribution Grid Snake Animation -->
-![snake gif](https://github.com/mustafanalbant1/mustafanalbant1/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/mustafanalbant1/mustafanalbant1/blob/output/github-contribution-grid-snake.svg)  -->
