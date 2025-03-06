@@ -1,27 +1,24 @@
-
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*jXusXvCfxECPU_Jh9S_E3w.jpeg" alt="MasterHead"/>
 </div>
+
 <h1>💫 About Me:</h1>
 
-🔭 I’m currently working on Full Stack Developer
+🔭 I’m currently working as a Full Stack Developer
 
-⚡ I can help with BackEnd & Front End.
+⚡ I can help with BackEnd & FrontEnd development.
 
 🌱 I’m currently learning React Native
 
-💬  Ask me about anything*
+💬 Ask me about anything*
 
 🤝🏻 I am open to job offers.
 
-📫 How to reach me mnalbant9046@gmail.com
+📫 How to reach me: mnalbant9046@gmail.com
 
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mustafa nalbant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa nalbant" height="30" width="40" /></a>
-<a href="https://instagram.com/nalbant9046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nalbant9046" height="30" width="40" /></a>
-</p>-->
+🔗 My Portfolio: [mustafanalbantportfolio.netlify.app](https://mustafanalbantportfolio.netlify.app/)
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -60,7 +57,11 @@
   </a>
 </p>
 
+---
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafanalbant1&show_icons=true&locale=en" alt="mustafanalbant1" /></p>
 
+---
 
-<!--![snake gif](https://github.com/mustafanalbant1/mustafanalbant1/blob/output/github-contribution-grid-snake.gif)
+<!-- GitHub Contribution Grid Snake Animation -->
+![snake gif](https://github.com/mustafanalbant1/mustafanalbant1/blob/output/github-contribution-grid-snake.svg)
