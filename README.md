@@ -16,6 +16,7 @@
 
 📫 **📩 Reach me at:** [mnalbant9046@gmail.com](mailto:mnalbant9046@gmail.com)
 
+🌐 **Check out my portfolio:** [Mustafa Nalbant Portfolio](https://mustafanalbantportfolio.netlify.app/)
 ---
 
 <h2 align="center">🚀 Connect with Me 🌐</h2>
@@ -43,4 +44,4 @@
 
 ---
 
-🌐 **Check out my portfolio:** [Mustafa Nalbant Portfolio](https://mustafanalbantportfolio.netlify.app/)
+
